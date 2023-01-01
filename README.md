@@ -1,1 +1,12 @@
 # C3G_NeRF
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title> Class-Continuous Conditional Generative Neural Radiance Field
+</head>
+<body>
+  <h1>Class-Continuous Conditional Generative Neural Radiance Field</h1>
+  <p>Jiwook Kim, Minhyeok Lee</p>
+</body>
+</html>  
